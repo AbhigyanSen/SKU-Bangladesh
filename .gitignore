@@ -1,0 +1,8 @@
+# Ignore the env directory
+env/
+
+# Include all Python files
+!*.py
+
+# Include demoPDF.pdf
+!demoPDF.pdf
